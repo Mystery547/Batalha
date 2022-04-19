@@ -1,0 +1,2 @@
+from Jogador import Jogador
+
